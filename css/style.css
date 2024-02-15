@@ -140,3 +140,20 @@ section{
 	background: #EED489;
 	width: 50%;
 }
+
+.parts{
+	width: 50px;
+	color: #34280E;
+}
+.sec_tit{
+	background: #255;
+	width: 50%;
+
+}
+.takes{
+	background: #EED489;
+	width: 50%;
+}
+.sec_tit{
+	text-align: center;
+}
